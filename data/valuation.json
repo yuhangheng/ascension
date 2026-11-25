@@ -1,0 +1,92 @@
+{
+  "quote_date": "2026-11-24",
+  "nvidia": {
+    "price_usd": 155.38,
+    "shares_bn": 24.1,
+    "shares_dated": "2026-08-21",
+    "cash_usd_bn": 29.089,
+    "marketable_debt_securities_usd_bn": 24.423,
+    "marketable_equity_usd_bn": 44.219,
+    "debt_usd_bn": 32.371,
+    "price_source": "https://api.nasdaq.com/api/quote/NVDA/historical?assetclass=stocks&fromdate=2026-11-19&todate=2026-11-24",
+    "shares_source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm",
+    "balance_date": "2026-10-25",
+    "balance_source": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/",
+    "scenarios": [
+      {
+        "case": "compression",
+        "growth": [
+          0.25,
+          0.1,
+          0.06,
+          0.04,
+          0.03
+        ],
+        "cash_margin": [
+          0.34,
+          0.31,
+          0.28,
+          0.27,
+          0.26
+        ],
+        "discount": 0.12,
+        "terminal_growth": 0.02
+      },
+      {
+        "case": "base",
+        "growth": [
+          0.42,
+          0.25,
+          0.16,
+          0.1,
+          0.07
+        ],
+        "cash_margin": [
+          0.4,
+          0.39,
+          0.38,
+          0.37,
+          0.36
+        ],
+        "discount": 0.105,
+        "terminal_growth": 0.03
+      },
+      {
+        "case": "system premium",
+        "growth": [
+          0.53,
+          0.35,
+          0.24,
+          0.16,
+          0.1
+        ],
+        "cash_margin": [
+          0.44,
+          0.44,
+          0.43,
+          0.42,
+          0.41
+        ],
+        "discount": 0.095,
+        "terminal_growth": 0.035
+      }
+    ]
+  },
+  "anthropic": {
+    "price_usd": 81.905,
+    "offer_price_usd": 83,
+    "listing_date": "2026-11-19",
+    "as_if_shares_bn": 13.366642276,
+    "fy25_revenue_usd_bn": 4.585,
+    "ytd25_revenue_usd_bn": 2.545,
+    "ytd26_revenue_usd_bn": 33.242,
+    "ytd26_operating_loss_usd_bn": 1.26,
+    "ytd26_compute_infra_usd_bn": 18.808,
+    "primary_ipo_shares_bn": 1.103351354,
+    "secondary_ipo_shares_bn": 0.023648646,
+    "private_placement_shares_bn": 0.313253007,
+    "closing_release": "https://www.anthropic.com/news/ipo-close",
+    "prospectus": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026074944/anthropicpbc-424b4.htm",
+    "price_source": "https://api.nasdaq.com/api/quote/ANT/historical?assetclass=stocks&fromdate=2026-11-19&todate=2026-11-24"
+  }
+}

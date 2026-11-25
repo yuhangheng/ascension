@@ -1,0 +1,8 @@
+id,issued_on,deadline,probability,dimension,metric,criterion_path,primary_source,status
+A01,2026-11-25,2027-04-30,0.55,Intelligence,METR 1.1 50% time horizon at least 24 hours,predictions/README.md#a01,https://metr.org/time-horizons/,OPEN
+A02,2026-11-25,2027-06-30,0.60,Execution,Digit live operations at Statesville and Lebanon,predictions/README.md#a02,https://gxo.com/news_article/gxo-and-agility-robotics-expand-partnership-to-accelerate-deployment-of-humanoids-in-u-s-operations/,OPEN
+A03,2026-11-25,2027-05-31,0.65,Infrastructure,Two final customers confirm sustained paid production inference on NVL72,predictions/README.md#a03,https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/,OPEN
+A04,2026-11-25,2027-02-15,0.55,Infrastructure,TSMC Q4 2026 2nm wafer revenue share at least 12%,predictions/README.md#a04,https://investor.tsmc.com/english/quarterly-results/2026/q3,OPEN
+A05,2026-11-25,2027-11-25,0.35,Life,At least 10 NEO users complete functional grasp at week 26 or later,predictions/README.md#a05,https://www.nmpa.gov.cn/zwfw/sdxx/sdxxylqx/qxpjfb/20260313163029142.html?type=pc&m=,OPEN
+A06,2026-11-25,2029-11-25,0.30,Life,Rentosertib registered phase 3 superiority result public,predictions/README.md#a06,https://clinicaltrials.gov/study/NCT07687459,OPEN
+A07,2026-11-25,2028-11-25,0.40,Life,ER-100 randomized controlled visual-function study started,predictions/README.md#a07,https://clinicaltrials.gov/study/NCT07290244,OPEN

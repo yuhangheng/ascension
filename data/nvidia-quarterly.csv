@@ -1,0 +1,6 @@
+fiscal_quarter,period_end,published,revenue_usd_bn,data_center_usd_bn,gaap_gross_margin_pct,gaap_operating_income_usd_bn,gaap_net_income_usd_bn,cfo_usd_bn,purchases_usd_bn,principal_usd_bn,reported_fcf_usd_bn,source_url
+FY26Q3,2025-10-26,2025-11-19,57.006,51.2,73.4,36.010,31.910,23.750,1.637,0.024,22.089,https://investor.nvidia.com/news/press-release-details/2025/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2026/
+FY26Q4,2026-01-25,2026-02-25,68.127,62.3,75.0,44.299,42.960,36.190,1.284,0.004,34.902,https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Fourth-Quarter-and-Fiscal-2026/
+FY27Q1,2026-04-26,2026-05-20,81.615,75.2,74.9,53.536,58.321,50.344,1.757,0.033,48.554,https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-First-Quarter-Fiscal-2027/default.aspx
+FY27Q2,2026-07-26,2026-08-26,96.221,89.0,75.0,63.734,59.688,24.077,2.677,0.059,21.341,https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/
+FY27Q3,2026-10-25,2026-11-17,115.844,107.6,74.8,77.520,65.287,48.253,4.422,0.054,43.777,https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/
